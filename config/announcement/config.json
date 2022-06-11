@@ -1,0 +1,8 @@
+{
+    "enable": false,
+    "type": "chat", //sms or chat
+    "interval": 60, //second
+    "notices": [
+        "test"
+    ]
+}
